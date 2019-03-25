@@ -1,0 +1,11 @@
+
+<suite name="Amar">
+  <test name="PrimusBank">
+    <classes>
+      <class name="com.vasu.testng.AdminLoginTest"/>
+      <class name="com.vasu.testng.FirstTestNgTest"/>
+      <class name="com.vasu.testng.AdminLogin"/>
+      <class name="com.vasu.testng.ValidationTest"/>
+    </classes>
+  </test>
+</suite>
